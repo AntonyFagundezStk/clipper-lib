@@ -1,6 +1,6 @@
 # ClipperLib
 
-> forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/)
+> forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/) (FPoint project)
 
 ## Description
 
@@ -8,10 +8,10 @@ The Javascript Clipper library performs clipping and offsetting for both lines a
 
 Javascript Clipper is a port of Angus Johnson's Clipper library: <https://sourceforge.net/projects/polyclipping/>
 
-LIVE DEMO: <http://jsclipper.sourceforge.net/6.2.1.0/main_demo.html>
+LIVE DEMO: <http://jsclipper.sourceforge.net/6.4.2.2_fpoint/main_demo.html>
 
 Information and examples:
-<http://jsclipper.sourceforge.net/6.2.1.0/>
+<http://jsclipper.sourceforge.net/6.4.2.2_fpoint>
 
 Donate Javascript Clipper Project: <https://sourceforge.net/p/jsclipper/wiki/Donations/>
 
@@ -32,8 +32,6 @@ Use cases:
 - Comprehensive documentation
 - Demos use inline SVG and Canvas libraries
 - The library is significantly faster than commercial alternatives
-- Uses Tom Wu's fast big integer library
-- UMD support
 
 ## Categories
 
@@ -41,7 +39,7 @@ Algorithms, Graphics
 
 ## Links
 
-- [Documentation](./Documentation.md)
+- [Documentation](https://sourceforge.net/p/jsclipper/wiki/documentation/)
 - [ChangeLog](./ChangeLog.txt)
 
 ## License
