@@ -1,5 +1,7 @@
 # ClipperLib
 
+I had to do another fork from junmers repository to release a version with fpoint to npm.
+
 > forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/) (FPoint project)
 
 ## Description

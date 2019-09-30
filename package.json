@@ -1,12 +1,12 @@
 {
-  "name": "clipper-lib",
+  "name": "clipper-lib-fpoint",
   "version": "6.4.2",
   "description": "Boolean operations and offsetting library in Javascript",
   "files": [
     "clipper.js"
   ],
   "main": "clipper.js",
-  "repository": "git://github.com/junmer/clipper-lib",
+  "repository": "https://github.com/boldtrn/clipper-lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
